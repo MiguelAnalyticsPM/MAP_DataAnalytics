@@ -27,7 +27,7 @@ This project was developed as part of **Dataton 2024**, a data-driven hackathon.
 
 ## 🛠️ Project Structure
 The project repository is organized as follows:
-
+```
 Dataton 2024 - App Proposal Project/
 ├── README.md                               # Documentation of the project
 ├── Design/                                 # App interface and design files
@@ -39,7 +39,7 @@ Dataton 2024 - App Proposal Project/
 │   └── Resourses.md                        # Explanation of app features and their benefits
 └── Presentation/                           # Presentation materials
     └── Oportunitech.pdf                    # Slide deck presenting the Project
-
+```
 ---
 
 ## 📊 Key Features
