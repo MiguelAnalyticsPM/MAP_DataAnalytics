@@ -28,12 +28,11 @@ This project was developed as part of **Dataton 2024**, a data-driven hackathon.
 ## 🛠️ Project Structure
 The project repository is organized as follows:
 
-```plaintext
+```plaintext```
 Dataton 2024 - App Proposal Project/
 ├── README.md                               # Documentation of the project
 ├── Design/                                 # App interface and design files
 │   └── App_Interface_Flow.pdf              # Detailed flow of the app's interface
-```
 │   └── Link_to_FlutterFlow_Prototype.txt   # Link to the interactive app prototype
 ├── Documentation/                          # Supporting documents
 │   └── Dataton_Challenge_2.pdf             # Challenge description and context
@@ -76,5 +75,3 @@ This project demonstrates how data and innovative design can come together to so
 For additional details, refer to the attached documentation and prototype link.
 
 ---
-
-Guarda este texto en un archivo llamado `README.md` y súbelo a tu repositorio. Si necesitas ayuda adicional, ¡estoy aquí para ayudarte! 😊
