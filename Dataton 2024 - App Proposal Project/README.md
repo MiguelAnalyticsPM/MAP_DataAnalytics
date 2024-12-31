@@ -28,7 +28,6 @@ This project was developed as part of **Dataton 2024**, a data-driven hackathon.
 ## 🛠️ Project Structure
 The project repository is organized as follows:
 
-```plaintext```
 Dataton 2024 - App Proposal Project/
 ├── README.md                               # Documentation of the project
 ├── Design/                                 # App interface and design files
